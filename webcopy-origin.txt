@@ -1,0 +1,48 @@
+Uri: https://www.ihaveanidea.fun/
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\index.htm
+Content Type: text/html
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/4bd1b696-3abbb802821b0a68.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\4bd1b696-3abbb802821b0a68.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/617-99ac5a04b7324cc6.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\617-99ac5a04b7324cc6.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/681-a32556a4b8bdab14.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\681-a32556a4b8bdab14.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/684-bc71a151247b42e6.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\684-bc71a151247b42e6.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/874-b9d38d0f7b1f80d6.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\874-b9d38d0f7b1f80d6.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/app/layout-5d786289ea029d7d.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\app\layout-5d786289ea029d7d.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/app/page-1c7cebb2663e8d2e.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\app\page-1c7cebb2663e8d2e.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/main-app-c9779a9cf3f89b5e.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\main-app-c9779a9cf3f89b5e.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/chunks/webpack-538344e1ec16ef6b.js
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\chunks\webpack-538344e1ec16ef6b.js
+Content Type: application/javascript
+
+Uri: https://www.ihaveanidea.fun/_next/static/css/bf4f764556a3eda9.css
+File Name: C:\Downloaded Web Sites\www.ihaveanidea.fun\_next\static\css\bf4f764556a3eda9.css
+Content Type: text/css
+
